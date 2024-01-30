@@ -1,13 +1,20 @@
 ---
 layout: post
-title: a post with formatting and links
-date: 2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+title: Start of this blog and repository
+date: 2024-01-29 20:36:16
+description: Jan, looking forward to Spring term
+tags: start blogging  
+categories: start
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+I created this website after attending Prof. Dhrumil Mehta and Prof. Aarushi Sahejpal's course on Data and Programming for Policymakers (DPI-691M) as part of our January term course offerings. The course was quite nice and I'm extremtly thankful to them for creating a building bias within the short time that we worked together. 
+
+Why this platform?
+
+I could be using Notion. Or the housand others that exist out there. They'd be more private too. Or public for that matter. Without all the hassle that this one involved. 
+
+I think it's partly inspired by the 
+[Github](https://github.com/Nostradamus2x) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
 #### Hipster list
 

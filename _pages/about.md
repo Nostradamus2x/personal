@@ -13,13 +13,21 @@ profile:
     <p>Harvard Kennedy School</p>
     <p>Cambridge, MA 02138</p>
 
-news: true # includes a list of news items
+#news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+#selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
 I am an MPA/ID Candidate at the Harvard Kennedy School. 
+At graduate school, I'm involved with a few projects and organizations
+1. Impact Investing Club: 
+2. India Conference at Harvard
+3. Chair, Public Private Partnerships, Business and Government Club
+
+
+These are the courses I am taking:
+
 Formerly:
 1. Programs and Investments at Village Capital (South and Southeast Asia)
 2. Chief Minister's Fellow in Skill Development and Entrepreneurship Department, Government of Maharashtra. 
