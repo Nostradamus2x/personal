@@ -1,19 +1,19 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Ayush Shukla",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "ayushshukla@hks.harvard.edu",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "url": "https://nostradamus2x.github.io/personal/",
+    "summary": "A young development policy professional with interests in impact investments and public-private partnerships",
+    // "location": {
+    //   "address": "2712 Broadway St",
+    //   "postalCode": "CA 94115",
+    //   "city": "San Francisco",
+    //   "countryCode": "US",
+    //   "region": "California"
+    // },
     "profiles": [
       {
         "network": "Twitter",

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>.
 
 profile:
   align: right
@@ -22,11 +22,11 @@ social: true # includes social icons at the bottom of the page
 I am an MPA/ID Candidate at the Harvard Kennedy School. 
 At graduate school, I'm involved with a few projects and organizations
 1. Impact Investing Club: 
-2. India Conference at Harvard
+2. <a href='https://indiaconferenceharvard.com/'>India Conference at Harvard</a> 
 3. Chair, Public Private Partnerships, Business and Government Club
 
 
-These are the courses I am taking:
+I am taking <a href='../courses.md'>these courses</a>.
 
 Formerly:
 1. Programs and Investments at Village Capital (South and Southeast Asia)
